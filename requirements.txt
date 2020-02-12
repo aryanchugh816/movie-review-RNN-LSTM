@@ -1,0 +1,10 @@
+numpy==1.16.1
+keras==2.2.4
+tensorflow==1.14.0
+Click==7.0
+Flask==1.1.1
+gunicorn==19.9.0
+itsdangerous==1.1.0
+Jinja2==2.10.1
+MarkupSafe==1.1.1
+Werkzeug==0.15.6
